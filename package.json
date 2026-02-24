@@ -1,10 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "taskflow-client",
+=======
+  "name": "vite-project",
+>>>>>>> 0e076919db5dfadc4b5b601c6d9419094f9bbf79
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -25,6 +30,13 @@
     "globals": "^16.5.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.48.0",
+=======
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+>>>>>>> 0e076919db5dfadc4b5b601c6d9419094f9bbf79
     "vite": "^7.3.1"
   }
 }

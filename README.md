@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# taskflow-client
+React + TypeScript task management app demonstrating typed state management, reusable components, and local persistence.
+>>>>>>> 0e076919db5dfadc4b5b601c6d9419094f9bbf79
